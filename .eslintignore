@@ -1,0 +1,6 @@
+dev
+build
+dist
+__tests__
+
+lint-staged.config.js
